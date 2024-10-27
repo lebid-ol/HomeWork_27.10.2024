@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u041E\u0431\u0440\u0430\u0437\u043E\u0432\u0430\u043D\u0438\u0435\\Progects_C#\\HomeWork_27.10.2024\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0FA233E4-EA66-4098-93C4-E7E9B1B7C91B}|HomeWork_27.10.2024\\HomeWork_27.10.2024.csproj|d:\\\u043E\u0431\u0440\u0430\u0437\u043E\u0432\u0430\u043D\u0438\u0435\\progects_c#\\homework_27.10.2024\\homework_27.10.2024\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FA233E4-EA66-4098-93C4-E7E9B1B7C91B}|HomeWork_27.10.2024\\HomeWork_27.10.2024.csproj|solutionrelative:homework_27.10.2024\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FA233E4-EA66-4098-93C4-E7E9B1B7C91B}|HomeWork_27.10.2024\\HomeWork_27.10.2024.csproj|d:\\\u043E\u0431\u0440\u0430\u0437\u043E\u0432\u0430\u043D\u0438\u0435\\progects_c#\\homework_27.10.2024\\homework_27.10.2024\\snowmobile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FA233E4-EA66-4098-93C4-E7E9B1B7C91B}|HomeWork_27.10.2024\\HomeWork_27.10.2024.csproj|solutionrelative:homework_27.10.2024\\snowmobile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FA233E4-EA66-4098-93C4-E7E9B1B7C91B}|HomeWork_27.10.2024\\HomeWork_27.10.2024.csproj|d:\\\u043E\u0431\u0440\u0430\u0437\u043E\u0432\u0430\u043D\u0438\u0435\\progects_c#\\homework_27.10.2024\\homework_27.10.2024\\ship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FA233E4-EA66-4098-93C4-E7E9B1B7C91B}|HomeWork_27.10.2024\\HomeWork_27.10.2024.csproj|solutionrelative:homework_27.10.2024\\ship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FA233E4-EA66-4098-93C4-E7E9B1B7C91B}|HomeWork_27.10.2024\\HomeWork_27.10.2024.csproj|d:\\\u043E\u0431\u0440\u0430\u0437\u043E\u0432\u0430\u043D\u0438\u0435\\progects_c#\\homework_27.10.2024\\homework_27.10.2024\\yacht.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FA233E4-EA66-4098-93C4-E7E9B1B7C91B}|HomeWork_27.10.2024\\HomeWork_27.10.2024.csproj|solutionrelative:homework_27.10.2024\\yacht.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FA233E4-EA66-4098-93C4-E7E9B1B7C91B}|HomeWork_27.10.2024\\HomeWork_27.10.2024.csproj|d:\\\u043E\u0431\u0440\u0430\u0437\u043E\u0432\u0430\u043D\u0438\u0435\\progects_c#\\homework_27.10.2024\\homework_27.10.2024\\helicopter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FA233E4-EA66-4098-93C4-E7E9B1B7C91B}|HomeWork_27.10.2024\\HomeWork_27.10.2024.csproj|solutionrelative:homework_27.10.2024\\helicopter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FA233E4-EA66-4098-93C4-E7E9B1B7C91B}|HomeWork_27.10.2024\\HomeWork_27.10.2024.csproj|d:\\\u043E\u0431\u0440\u0430\u0437\u043E\u0432\u0430\u043D\u0438\u0435\\progects_c#\\homework_27.10.2024\\homework_27.10.2024\\motorcycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FA233E4-EA66-4098-93C4-E7E9B1B7C91B}|HomeWork_27.10.2024\\HomeWork_27.10.2024.csproj|solutionrelative:homework_27.10.2024\\motorcycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FA233E4-EA66-4098-93C4-E7E9B1B7C91B}|HomeWork_27.10.2024\\HomeWork_27.10.2024.csproj|d:\\\u043E\u0431\u0440\u0430\u0437\u043E\u0432\u0430\u043D\u0438\u0435\\progects_c#\\homework_27.10.2024\\homework_27.10.2024\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FA233E4-EA66-4098-93C4-E7E9B1B7C91B}|HomeWork_27.10.2024\\HomeWork_27.10.2024.csproj|solutionrelative:homework_27.10.2024\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Helicopter.cs",
+              "DocumentMoniker": "D:\\\u041E\u0431\u0440\u0430\u0437\u043E\u0432\u0430\u043D\u0438\u0435\\Progects_C#\\HomeWork_27.10.2024\\HomeWork_27.10.2024\\Helicopter.cs",
+              "RelativeDocumentMoniker": "HomeWork_27.10.2024\\Helicopter.cs",
+              "ToolTip": "D:\\\u041E\u0431\u0440\u0430\u0437\u043E\u0432\u0430\u043D\u0438\u0435\\Progects_C#\\HomeWork_27.10.2024\\HomeWork_27.10.2024\\Helicopter.cs",
+              "RelativeToolTip": "HomeWork_27.10.2024\\Helicopter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T10:38:36.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Yacht.cs",
+              "DocumentMoniker": "D:\\\u041E\u0431\u0440\u0430\u0437\u043E\u0432\u0430\u043D\u0438\u0435\\Progects_C#\\HomeWork_27.10.2024\\HomeWork_27.10.2024\\Yacht.cs",
+              "RelativeDocumentMoniker": "HomeWork_27.10.2024\\Yacht.cs",
+              "ToolTip": "D:\\\u041E\u0431\u0440\u0430\u0437\u043E\u0432\u0430\u043D\u0438\u0435\\Progects_C#\\HomeWork_27.10.2024\\HomeWork_27.10.2024\\Yacht.cs",
+              "RelativeToolTip": "HomeWork_27.10.2024\\Yacht.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T10:38:50.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Ship.cs",
+              "DocumentMoniker": "D:\\\u041E\u0431\u0440\u0430\u0437\u043E\u0432\u0430\u043D\u0438\u0435\\Progects_C#\\HomeWork_27.10.2024\\HomeWork_27.10.2024\\Ship.cs",
+              "RelativeDocumentMoniker": "HomeWork_27.10.2024\\Ship.cs",
+              "ToolTip": "D:\\\u041E\u0431\u0440\u0430\u0437\u043E\u0432\u0430\u043D\u0438\u0435\\Progects_C#\\HomeWork_27.10.2024\\HomeWork_27.10.2024\\Ship.cs",
+              "RelativeToolTip": "HomeWork_27.10.2024\\Ship.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAACMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T10:39:21.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Snowmobile.cs",
+              "DocumentMoniker": "D:\\\u041E\u0431\u0440\u0430\u0437\u043E\u0432\u0430\u043D\u0438\u0435\\Progects_C#\\HomeWork_27.10.2024\\HomeWork_27.10.2024\\Snowmobile.cs",
+              "RelativeDocumentMoniker": "HomeWork_27.10.2024\\Snowmobile.cs",
+              "ToolTip": "D:\\\u041E\u0431\u0440\u0430\u0437\u043E\u0432\u0430\u043D\u0438\u0435\\Progects_C#\\HomeWork_27.10.2024\\HomeWork_27.10.2024\\Snowmobile.cs",
+              "RelativeToolTip": "HomeWork_27.10.2024\\Snowmobile.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T10:39:35.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u041E\u0431\u0440\u0430\u0437\u043E\u0432\u0430\u043D\u0438\u0435\\Progects_C#\\HomeWork_27.10.2024\\HomeWork_27.10.2024\\Program.cs",
+              "RelativeDocumentMoniker": "HomeWork_27.10.2024\\Program.cs",
+              "ToolTip": "D:\\\u041E\u0431\u0440\u0430\u0437\u043E\u0432\u0430\u043D\u0438\u0435\\Progects_C#\\HomeWork_27.10.2024\\HomeWork_27.10.2024\\Program.cs",
+              "RelativeToolTip": "HomeWork_27.10.2024\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T09:03:21.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Motorcycle.cs",
+              "DocumentMoniker": "D:\\\u041E\u0431\u0440\u0430\u0437\u043E\u0432\u0430\u043D\u0438\u0435\\Progects_C#\\HomeWork_27.10.2024\\HomeWork_27.10.2024\\Motorcycle.cs",
+              "RelativeDocumentMoniker": "HomeWork_27.10.2024\\Motorcycle.cs",
+              "ToolTip": "D:\\\u041E\u0431\u0440\u0430\u0437\u043E\u0432\u0430\u043D\u0438\u0435\\Progects_C#\\HomeWork_27.10.2024\\HomeWork_27.10.2024\\Motorcycle.cs",
+              "RelativeToolTip": "HomeWork_27.10.2024\\Motorcycle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T10:38:17.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Car.cs",
+              "DocumentMoniker": "D:\\\u041E\u0431\u0440\u0430\u0437\u043E\u0432\u0430\u043D\u0438\u0435\\Progects_C#\\HomeWork_27.10.2024\\HomeWork_27.10.2024\\Car.cs",
+              "RelativeDocumentMoniker": "HomeWork_27.10.2024\\Car.cs",
+              "ToolTip": "D:\\\u041E\u0431\u0440\u0430\u0437\u043E\u0432\u0430\u043D\u0438\u0435\\Progects_C#\\HomeWork_27.10.2024\\HomeWork_27.10.2024\\Car.cs",
+              "RelativeToolTip": "HomeWork_27.10.2024\\Car.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T10:37:57.785Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+D:\Образование\Progects_C#\HomeWork_27.10.2024\HomeWork_27.10.2024\obj\Debug\net8.0\HomeWork_27.10.2024.GeneratedMSBuildEditorConfig.editorconfig
+D:\Образование\Progects_C#\HomeWork_27.10.2024\HomeWork_27.10.2024\obj\Debug\net8.0\HomeWork_27.10.2024.AssemblyInfoInputs.cache
+D:\Образование\Progects_C#\HomeWork_27.10.2024\HomeWork_27.10.2024\obj\Debug\net8.0\HomeWork_27.10.2024.AssemblyInfo.cs
+D:\Образование\Progects_C#\HomeWork_27.10.2024\HomeWork_27.10.2024\obj\Debug\net8.0\HomeWork_27.10.2024.csproj.CoreCompileInputs.cache
