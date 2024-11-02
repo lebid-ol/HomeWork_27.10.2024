@@ -9,7 +9,7 @@ namespace HomeWork_27._10._2024
     internal class Motorcycle : Program.Vehicle
     {
         public bool HasSider { get; set; }
-        public Motorcycle(string name, int maxSpeed, double fuelCapacity, bool hasSider) : base(name, maxSpeed, fuelCapacity)
+        public Motorcycle(string name, int maxSpeed, double fuelCapacity, double intoGasTank, bool hasSider) : base(name, maxSpeed, fuelCapacity, intoGasTank)
         {
            HasSider = hasSider;
         }

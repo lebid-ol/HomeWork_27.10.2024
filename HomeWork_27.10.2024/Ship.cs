@@ -9,7 +9,7 @@ namespace HomeWork_27._10._2024
     internal class Ship : Program.Vehicle
     {
         public int CargoCapacity { get; set; }
-        public Ship(string name, int maxSpeed, double fuelCapacity, int cargoCapacity) : base(name, maxSpeed, fuelCapacity)
+        public Ship(string name, int maxSpeed, double fuelCapacity, double intoGasTank, int cargoCapacity) : base(name, maxSpeed, fuelCapacity, intoGasTank)
         {
             CargoCapacity = cargoCapacity;
         }

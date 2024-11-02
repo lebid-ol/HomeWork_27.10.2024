@@ -9,7 +9,7 @@ namespace HomeWork_27._10._2024
     internal class Helicopter : Program.Vehicle
     {
         public int RotorBlades { get; set; }
-        public Helicopter(string name, int maxSpeed, double fuelCapacity, int rotorBlades) : base(name, maxSpeed, fuelCapacity)
+        public Helicopter(string name, int maxSpeed, double fuelCapacity, double intoGasTank, int rotorBlades) : base(name, maxSpeed, fuelCapacity, intoGasTank)
         {
             RotorBlades = rotorBlades;
         }

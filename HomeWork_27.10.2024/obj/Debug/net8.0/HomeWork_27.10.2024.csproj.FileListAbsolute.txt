@@ -2,3 +2,14 @@ D:\Образование\Progects_C#\HomeWork_27.10.2024\HomeWork_27.10.2024\ob
 D:\Образование\Progects_C#\HomeWork_27.10.2024\HomeWork_27.10.2024\obj\Debug\net8.0\HomeWork_27.10.2024.AssemblyInfoInputs.cache
 D:\Образование\Progects_C#\HomeWork_27.10.2024\HomeWork_27.10.2024\obj\Debug\net8.0\HomeWork_27.10.2024.AssemblyInfo.cs
 D:\Образование\Progects_C#\HomeWork_27.10.2024\HomeWork_27.10.2024\obj\Debug\net8.0\HomeWork_27.10.2024.csproj.CoreCompileInputs.cache
+D:\Образование\Progects_C#\HomeWork_27.10.2024\HomeWork_27.10.2024\bin\Debug\net8.0\HomeWork_27.10.2024.exe
+D:\Образование\Progects_C#\HomeWork_27.10.2024\HomeWork_27.10.2024\bin\Debug\net8.0\HomeWork_27.10.2024.deps.json
+D:\Образование\Progects_C#\HomeWork_27.10.2024\HomeWork_27.10.2024\bin\Debug\net8.0\HomeWork_27.10.2024.runtimeconfig.json
+D:\Образование\Progects_C#\HomeWork_27.10.2024\HomeWork_27.10.2024\bin\Debug\net8.0\HomeWork_27.10.2024.dll
+D:\Образование\Progects_C#\HomeWork_27.10.2024\HomeWork_27.10.2024\bin\Debug\net8.0\HomeWork_27.10.2024.pdb
+D:\Образование\Progects_C#\HomeWork_27.10.2024\HomeWork_27.10.2024\obj\Debug\net8.0\HomeWork_27.10.2024.sourcelink.json
+D:\Образование\Progects_C#\HomeWork_27.10.2024\HomeWork_27.10.2024\obj\Debug\net8.0\HomeWork_27.10.2024.dll
+D:\Образование\Progects_C#\HomeWork_27.10.2024\HomeWork_27.10.2024\obj\Debug\net8.0\refint\HomeWork_27.10.2024.dll
+D:\Образование\Progects_C#\HomeWork_27.10.2024\HomeWork_27.10.2024\obj\Debug\net8.0\HomeWork_27.10.2024.pdb
+D:\Образование\Progects_C#\HomeWork_27.10.2024\HomeWork_27.10.2024\obj\Debug\net8.0\HomeWork_27.10.2024.genruntimeconfig.cache
+D:\Образование\Progects_C#\HomeWork_27.10.2024\HomeWork_27.10.2024\obj\Debug\net8.0\ref\HomeWork_27.10.2024.dll

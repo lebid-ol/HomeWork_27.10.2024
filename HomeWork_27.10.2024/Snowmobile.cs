@@ -9,7 +9,7 @@ namespace HomeWork_27._10._2024
     internal class Snowmobile : Program.Vehicle
     {
         public bool HasHeatedSeats { get; set; }
-        public Snowmobile(string name, int maxSpeed, double fuelCapacity, bool hasHeatedSeats) : base(name, maxSpeed, fuelCapacity)
+        public Snowmobile(string name, int maxSpeed, double fuelCapacity, double intoGasTank, bool hasHeatedSeats) : base(name, maxSpeed, fuelCapacity, intoGasTank)
         {
             HasHeatedSeats = hasHeatedSeats;
         }
@@ -26,7 +26,7 @@ namespace HomeWork_27._10._2024
 
         internal void DriveOnSnow()
         {
-            Console.WriteLine("Езда по снегу");
+            Console.WriteLine("Снегоход едет по снегу");
         }
     }
 }

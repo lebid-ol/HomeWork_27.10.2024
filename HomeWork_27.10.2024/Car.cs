@@ -9,7 +9,7 @@ namespace HomeWork_27._10._2024
     internal class Car : Program.Vehicle
     {
         public int NumberOfDoors { get; set; }
-        public Car(string name, int maxSpeed, double fuelCapacity, int numberOfDoors) : base(name, maxSpeed, fuelCapacity)
+        public Car(string name, int maxSpeed, double fuelCapacity, double intoGasTank, int numberOfDoors) : base(name, maxSpeed, fuelCapacity, intoGasTank)
         {
             NumberOfDoors = numberOfDoors;
         }
