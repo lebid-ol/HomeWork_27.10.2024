@@ -37,6 +37,7 @@ namespace HomeWork_27._10._2024
             foreach (Vehicle vehicle in vehicles)
             {
                 vehicle.StartEngine();
+                vehicle.Refuel(5);
             }
 
 
@@ -64,7 +65,7 @@ namespace HomeWork_27._10._2024
 
             public abstract void StopEngine();
             
-            void Refuel(double liters)
+           public  void Refuel(double liters)
             {
                 
                if (IntoGasTank + liters > FuelCapacity)
